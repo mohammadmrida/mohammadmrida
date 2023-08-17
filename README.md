@@ -8,10 +8,6 @@
 
 ### 📫 Feel free to get in touch [here](mailto:mohammadmrida@outlook.com?subject=[GitHub]%20Data%20Analysis%20Help), if you need help with your business data analysis.
 
-#### 🔭 I’m currently working on couple of data analysis projects.
-
-#### 🤔 I’m looking for help with getting freeelance data anaylsing projects. 
-
 #### ⚡ Fun fact: ...
 
 </br>
@@ -35,9 +31,9 @@
 ## 🔭 Expertise in DATA VISUALIZATION TOOLS:
 
 <p align="left">
+<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="40"/> </a>
 </p>
 
