@@ -1,14 +1,18 @@
 ### Hi there!! 👋
-### I am a Business Analyst with expertise in Data Analysis, Process Development and Problem Solving👋
 
-#### 🔭 I’m currently working on couple of data analysis projects
-- 🌱 I’m continiously learning new tools and techniques to do more complex anaylisis.
-- 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
-- 🤔 I’m looking for help with getting freeelance data anaylsing projects. 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💬 I am a Business Analyst with expertise in Data Analysis, Process Development and Problem Solving. I help organisations, small or large, to analyse their data and understand the business status, patern and market trends. 
+
+### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
+
+### 📫 Feel free to get in touch if you need help with your business data analysis <a href="mailto:mohammadmrida@outlook.com">  
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
+</a>
+
+#### 🔭 I’m currently working on couple of data analysis projects.
+#### 🌱 I’m continiously learning new tools and techniques to do more complex anaylisis.
+#### 🤔 I’m looking for help with getting freeelance data anaylsing projects. 
+
+#### ⚡ Fun fact: ...
 
 
 
