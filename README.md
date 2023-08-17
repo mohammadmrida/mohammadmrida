@@ -4,8 +4,8 @@
 
 ### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
 
-### 📫 Feel free to get in touch if you need help with your business data analysis,
-< a href="mailto:mohammadmrida@outlook.com">get in touch< /a>
+### 📫 Feel free to get in touch [here](mailto:mohammadmrida@outlook.com?subject=[GitHub]%20Data%20Analysis%20Help), if you need help with your business data analysis.
+
 #### 🔭 I’m currently working on couple of data analysis projects.
 #### 🌱 I’m continiously learning new tools and techniques to do more complex anaylisis.
 #### 🤔 I’m looking for help with getting freeelance data anaylsing projects. 
