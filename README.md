@@ -13,6 +13,8 @@
 #### ⚡ Fun fact: ...
 
 
+<a href=mailto:<MohammadMrida>mohammadmrida@outlook.com?subject="Data Analysis Help">Click here to send us an email!!!</a>
+
 
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
 <b>Hi, My name is Mohammad Mrida. I am a data professional.<b>
