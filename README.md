@@ -1,4 +1,5 @@
-### Hi there!! I am a Business Analyst with expertise in Data Analysis, Process Development and Problem Solving👋
+### Hi there!! 👋
+### I am a Business Analyst with expertise in Data Analysis, Process Development and Problem Solving👋
 
 #### 🔭 I’m currently working on couple of data analysis projects
 - 🌱 I’m continiously learning new tools and techniques to do more complex anaylisis.
