@@ -2,12 +2,10 @@
 
 ### 💬 I am a Business Analyst with expertise in Data Analysis, Process Development and Problem Solving. I help organisations, small or large, to analyse their data and understand the business status, patern and market trends.
 
-### 🌱 I’m continiously learning new tools and techniques to do more complex analysis.
-
 ### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
 
 
-### :office: How can I help a business?
+### :office: I can help a business to perform following analysis
 <p align="center">
  
 |HR Analysis|Financial Analysis|Business Analysis|
@@ -26,7 +24,8 @@
 
 </br>
 
-## 🔭 Expertise in DATA ANALYSIS TOOLS:
+### 🌱 I’m continiously learning new tools and techniques to do more complex analysis.
+### 🔭 Expertise in DATA ANALYSIS TOOLS:
 
 <p></p>
 
@@ -42,7 +41,7 @@
 
 </br>
 
-## 🔭 Expertise in DATA VISUALIZATION TOOLS:
+### 🔭 Expertise in DATA VISUALIZATION TOOLS:
 
 <p align="left">
 <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="40"/> </a>
