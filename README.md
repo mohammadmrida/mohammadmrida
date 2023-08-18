@@ -5,11 +5,9 @@
 ### 🌱 I’m continiously learning new tools and techniques to do more complex anaylisis.
 
 Key Skills
-
-<table>
-  <thead>
-    <tr>
-      <th width="500px"> 
+<table border="0">
+ <tr>
+      <td>
       :white_check_mark: Data analysis
       :white_check_mark: Process improvement
       :white_check_mark: Financial management and reporting
@@ -19,10 +17,10 @@ Key Skills
       :white_check_mark: Trend forecasting
       :white_check_mark: Sales data analysis
       :white_check_mark: Business needs analysis
+      </td>
+     
+      <td>
       
-      
-      </th>
-      <th width="500px">
       :white_check_mark: Customer service
       :white_check_mark: Data-driven decision making
       :white_check_mark: Cost estimation and budgeting
@@ -32,25 +30,9 @@ Key Skills
       :white_check_mark: Cost-benefit analysis
       :white_check_mark: Requirement gathering
       :white_check_mark: Workflow analysis
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr width="600px">
-      <td>
-
-
-</td>
-<td>
-
-
-</td>
-</tr>
-
-  </tbody>
+      </td>
+     </tr>
 </table>
-
-
 
 
 
