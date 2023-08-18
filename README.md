@@ -32,14 +32,12 @@ Key Skills
   </tr>
 </table>
 
-<p align="center">
+### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
 
-|  |  |
-|  |
-
-</p>
+### 📫 Feel free to get in touch <a href = "mailto: mohammadmrida@outlook.com">here</a> if you need help with your business data analysis.
 
 
+###How can I help a business?
 <p align="center">
  
 |HR Analysis|Financial Analysis|Marketing Analysis|
@@ -48,15 +46,11 @@ Key Skills
 |:white_check_mark: Gap Analysis|:white_check_mark: Process improvement|:white_check_mark: Financial management and reporting|
 |:white_check_mark: Resource Effectiveness Analysis|:white_check_mark: Financial and Business analysis|:white_check_mark: Problem solving|
 |:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Business needs analysis|
-      
+|:white_check_mark: Performance Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Business needs analysis|
+|:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Business needs analysis|
 
 
 </p>
-
-### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
-
-### 📫 Feel free to get in touch <a href = "mailto: mohammadmrida@outlook.com">here</a> if you need help with your business data analysis.
-
 
 </br>
 
