@@ -8,7 +8,6 @@
 
 ### 📫 Feel free to get in touch [here](mailto:mohammadmrida@outlook.com?subject=[GitHub]%20Data%20Analysis%20Help), if you need help with your business data analysis.
 
-#### ⚡ Fun fact: ...
 
 </br>
 
