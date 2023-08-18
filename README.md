@@ -4,40 +4,10 @@
 
 ### 🌱 I’m continiously learning new tools and techniques to do more complex analysis.
 
-Key Skills
-<table class="center">
- <tr>
-      <td>
-      :white_check_mark: Data analysis<br>
-      :white_check_mark: Process improvement<br>
-      :white_check_mark: Financial management and reporting<br>
-      :white_check_mark: Data visualisation<br>
-      :white_check_mark: Financial and Business analysis<br>
-      :white_check_mark: Problem solving<br>
-      :white_check_mark: Trend forecasting<br>
-      :white_check_mark: Sales data analysis<br>
-      :white_check_mark: Business needs analysis
-      </td>
-      <td>
-      :white_check_mark: Customer service<br>
-      :white_check_mark: Data-driven decision making<br>
-      :white_check_mark: Cost estimation and budgeting<br>
-      :white_check_mark: Operations and Gap analysis<br>
-      :white_check_mark: Forecasting and planning<br>
-      :white_check_mark: Business planning and administration<br>
-      :white_check_mark: Cost-benefit analysis<br>
-      :white_check_mark: Requirement gathering<br>
-      :white_check_mark: Workflow analysis
-      </td>
-  </tr>
-</table>
-
 ### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
 
-### 📫 Feel free to get in touch <a href = "mailto: mohammadmrida@outlook.com">here</a> if you need help with your business data analysis.
 
-
-### How can I help a business?
+### :office: How can I help a business?
 <p align="center">
  
 |HR Analysis|Financial Analysis|Business Analysis|
@@ -48,9 +18,11 @@ Key Skills
 |:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales Trend Analysis|:white_check_mark: Ansoff Matrix|
 |:white_check_mark: Performance Analysis|:white_check_mark: Cost Analysis|:white_check_mark: Business Model Valuation|
 |:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Cashflows Analysis|:white_check_mark: Porter's Generic Strategies|
-
-
 </p>
+
+</br>
+
+### 📫 Feel free to get in touch <a href = "mailto: mohammadmrida@outlook.com">here</a> if you need help with your business data analysis.
 
 </br>
 
