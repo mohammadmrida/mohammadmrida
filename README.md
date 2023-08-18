@@ -8,25 +8,25 @@ Key Skills
 <table border="0">
  <tr>
       <td>
-      :white_check_mark: Data analysis
-      :white_check_mark: Process improvement
-      :white_check_mark: Financial management and reporting
-      :white_check_mark: Data visualisation
-      :white_check_mark: Financial and Business analysis
-      :white_check_mark: Problem solving
-      :white_check_mark: Trend forecasting
-      :white_check_mark: Sales data analysis
+      :white_check_mark: Data analysis<br>
+      :white_check_mark: Process improvement<br>
+      :white_check_mark: Financial management and reporting<br>
+      :white_check_mark: Data visualisation<br>
+      :white_check_mark: Financial and Business analysis<br>
+      :white_check_mark: Problem solving<br>
+      :white_check_mark: Trend forecasting<br>
+      :white_check_mark: Sales data analysis<br>
       :white_check_mark: Business needs analysis
       </td>
       <td>
-      :white_check_mark: Customer service
-      :white_check_mark: Data-driven decision making
-      :white_check_mark: Cost estimation and budgeting
-      :white_check_mark: Operations and Gap analysis
-      :white_check_mark: Forecasting and planning
-      :white_check_mark: Business planning and administration
-      :white_check_mark: Cost-benefit analysis
-      :white_check_mark: Requirement gathering
+      :white_check_mark: Customer service<br>
+      :white_check_mark: Data-driven decision making<br>
+      :white_check_mark: Cost estimation and budgeting<br>
+      :white_check_mark: Operations and Gap analysis<br>
+      :white_check_mark: Forecasting and planning<br>
+      :white_check_mark: Business planning and administration<br>
+      :white_check_mark: Cost-benefit analysis<br>
+      :white_check_mark: Requirement gathering<br>
       :white_check_mark: Workflow analysis
       </td>
   </tr>
