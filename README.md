@@ -5,7 +5,7 @@
 ### 🌱 I’m continiously learning new tools and techniques to do more complex anaylisis.
 
 Key Skills
-<table style="border:0px white;margin-left:auto;margin-right:auto;">
+<table style ="border:0px; margin-left:auto; margin-right:auto; ">
  <tr>
       <td>
       :white_check_mark: Data analysis<br>
