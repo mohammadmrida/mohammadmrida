@@ -4,6 +4,44 @@
 
 ### 🌱 I’m continiously learning new tools and techniques to do more complex anaylisis.
 
+Key Skills
+
+:white_check_mark: Data analysis
+
+:white_check_mark: Process improvement
+
+:white_check_mark: Financial management and reporting
+
+:white_check_mark: Data visualisation
+
+:white_check_mark: Financial and Business analysis
+
+:white_check_mark: Problem solving
+
+:white_check_mark: Trend forecasting
+
+:white_check_mark: Sales data analysis
+
+:white_check_mark: Business needs analysis
+
+:white_check_mark: Customer service
+
+:white_check_mark: Data-driven decision making
+
+:white_check_mark: Cost estimation and budgeting
+
+:white_check_mark: Operations and Gap analysis
+
+:white_check_mark: Forecasting and planning
+
+:white_check_mark: Business planning and administration
+
+:white_check_mark: Cost-benefit analysis
+
+:white_check_mark: Requirement gathering
+
+:white_check_mark: Workflow analysis
+
 ### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
 
 ### 📫 Feel free to get in touch <a href = "mailto: mohammadmrida@outlook.com">here</a> if you need help with your business data analysis.
