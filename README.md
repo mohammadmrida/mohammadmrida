@@ -37,7 +37,7 @@ Key Skills
 ### 📫 Feel free to get in touch <a href = "mailto: mohammadmrida@outlook.com">here</a> if you need help with your business data analysis.
 
 
-###How can I help a business?
+### How can I help a business?
 <p align="center">
  
 |HR Analysis|Financial Analysis|Marketing Analysis|
