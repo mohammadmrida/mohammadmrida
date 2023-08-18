@@ -32,8 +32,12 @@ Key Skills
   </tr>
 </table>
 
-     | :white_check_mark: Business planning and administration | :white_check_mark: Cost-benefit analysis |
-     | :white_check_mark: Requirement gathering |
+<p align="center">
+
+| :white_check_mark: Business planning and administration | :white_check_mark: Cost-benefit analysis |
+| :white_check_mark: Requirement gathering |
+
+</p>
 
 
 <p align="center">
