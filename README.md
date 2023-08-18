@@ -42,12 +42,12 @@ Key Skills
  
 |HR Analysis|Financial Analysis|Marketing Analysis|
 |:----|:----|:----|
-|:white_check_mark: Process Improvement|:white_check_mark: Cost-benefit analysis|:white_check_mark: Requirement gathering|
-|:white_check_mark: Gap Analysis|:white_check_mark: Process improvement|:white_check_mark: Financial management and reporting|
-|:white_check_mark: Resource Effectiveness Analysis|:white_check_mark: Financial and Business analysis|:white_check_mark: Problem solving|
-|:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Business needs analysis|
-|:white_check_mark: Performance Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Business needs analysis|
-|:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Business needs analysis|
+|:white_check_mark: Process Improvement|:white_check_mark: Cost-benefit analysis|:white_check_mark: SWOT Analysis|
+|:white_check_mark: Gap Analysis|:white_check_mark: Investment Analysis|:white_check_mark: PESTLE Analysis|
+|:white_check_mark: Resource Effectiveness Analysis|:white_check_mark: Ratio Analysis |:white_check_mark: Poters 5 Forces Analysis|
+|:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Ansoff Matrix|
+|:white_check_mark: Performance Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Decision Trees|
+|:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Porter's Generic Strategies|
 
 
 </p>
