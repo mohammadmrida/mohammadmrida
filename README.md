@@ -44,10 +44,10 @@ Key Skills
  
 |HR Analysis|Financial Analysis|Marketing Analysis|
 |:----|:----|:----|
-|:white_check_mark: Business planning and administration|:white_check_mark: Cost-benefit analysis|:white_check_mark: Requirement gathering|
-|:white_check_mark: Data analysis|:white_check_mark: Process improvement|:white_check_mark: Financial management and reporting|
-|:white_check_mark: Data visualisation|:white_check_mark: Financial and Business analysis|:white_check_mark: Problem solving|
-|:white_check_mark: Trend forecasting|:white_check_mark: Sales data analysis|:white_check_mark: Business needs analysis|
+|:white_check_mark: Process Improvement|:white_check_mark: Cost-benefit analysis|:white_check_mark: Requirement gathering|
+|:white_check_mark: Gap Analysis|:white_check_mark: Process improvement|:white_check_mark: Financial management and reporting|
+|:white_check_mark: Resource Effectiveness Analysis|:white_check_mark: Financial and Business analysis|:white_check_mark: Problem solving|
+|:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales data analysis|:white_check_mark: Business needs analysis|
       
 
 
