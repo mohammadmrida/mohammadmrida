@@ -18,9 +18,7 @@ Key Skills
       :white_check_mark: Sales data analysis
       :white_check_mark: Business needs analysis
       </td>
-     
       <td>
-      
       :white_check_mark: Customer service
       :white_check_mark: Data-driven decision making
       :white_check_mark: Cost estimation and budgeting
@@ -31,7 +29,7 @@ Key Skills
       :white_check_mark: Requirement gathering
       :white_check_mark: Workflow analysis
       </td>
-     </tr>
+  </tr>
 </table>
 
 
