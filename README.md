@@ -41,7 +41,6 @@ Key Skills
 
 
 <p align="center">
-
 |:white_check_mark: Business planning and administration|:white_check_mark: Cost-benefit analysis|:white_check_mark: Requirement gathering|
 |:----|:----:|----:|
 |:white_check_mark: Business planning and administration|:white_check_mark: Cost-benefit analysis|:white_check_mark: Requirement gathering|
