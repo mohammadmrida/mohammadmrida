@@ -55,5 +55,5 @@
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
 
-<a href="mailto:mohammadmrida@outlook.com">  <img align="center" src="https://camo.githubusercontent.com/b010174bf1db503c35a1e9ca24ca85ccf11ba79f0db19e3ce7bab1a86e8b9616/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d6631663266362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" style="max-width: 100%;"></a>
-</p>
+----<a href="mailto:mohammadmrida@outlook.com">  <img align="center" src="https://camo.githubusercontent.com/b010174bf1db503c35a1e9ca24ca85ccf11ba79f0db19e3ce7bab1a86e8b9616/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d6631663266362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" style="max-width: 100%;"></a>
+</p>----
