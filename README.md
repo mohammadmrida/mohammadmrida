@@ -6,6 +6,28 @@
 
 Key Skills
 
+<table>
+  <thead>
+    <tr>
+      <th width="500px"> API</th>
+      <th width="500px">CLI</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="600px">
+      <td>
+
+
+</td>
+<td>
+
+
+</td>
+</tr>
+
+  </tbody>
+</table>
+
 :white_check_mark: Data analysis
 
 :white_check_mark: Process improvement
