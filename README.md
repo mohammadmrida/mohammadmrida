@@ -15,7 +15,7 @@
 |:white_check_mark: Resource Effectiveness Analysis|:white_check_mark: Ratio Analysis |:white_check_mark: Poters 5 Forces Analysis|
 |:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales Trend Analysis|:white_check_mark: Ansoff Matrix|
 |:white_check_mark: Performance Analysis|:white_check_mark: Cost Analysis|:white_check_mark: Business Model Valuation|
-|:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Cashflows Analysis|:white_check_mark: Porter's Generic Strategies|
+|:white_check_mark: Salary Analysis|:white_check_mark: Cashflows Analysis|:white_check_mark: Porter's Generic Strategies|
 </p>
 
 </br>
