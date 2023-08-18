@@ -40,13 +40,13 @@ Key Skills
 ### How can I help a business?
 <p align="center">
  
-|HR Analysis|Financial Analysis|Marketing Analysis|
+|HR Analysis|Financial Analysis|Business Analysis|
 |:----|:----|:----|
 |:white_check_mark: Process Improvement|:white_check_mark: Revenue Growth Analysis|:white_check_mark: SWOT Analysis|
 |:white_check_mark: Gap Analysis|:white_check_mark: Investment Analysis|:white_check_mark: PESTLE Analysis|
 |:white_check_mark: Resource Effectiveness Analysis|:white_check_mark: Ratio Analysis |:white_check_mark: Poters 5 Forces Analysis|
 |:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Sales Trend Analysis|:white_check_mark: Ansoff Matrix|
-|:white_check_mark: Performance Analysis|:white_check_mark: Cost Analysis|:white_check_mark: Decision Trees|
+|:white_check_mark: Performance Analysis|:white_check_mark: Cost Analysis|:white_check_mark: Business Model Valuation|
 |:white_check_mark: Recrutiment Cost Analysis|:white_check_mark: Cashflows Analysis|:white_check_mark: Porter's Generic Strategies|
 
 
