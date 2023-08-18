@@ -36,6 +36,12 @@ Key Skills
      | :white_check_mark: Requirement gathering |
 
 
+<p align="center">
+
+|Column1|Column1|Column1|
+|:----|:----:|----:|
+|Column1|Column1|Column1|
+</p>
 
 ### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
 
