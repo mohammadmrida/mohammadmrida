@@ -2,10 +2,10 @@
 
 ### 💬 I am a Business Analyst with expertise in Data Analysis, Process Development and Problem Solving. I help organisations, small or large, to analyse their data and understand the business status, patern and market trends.
 
-### 👯 I’m looking to collaborate on any data analysis project and available with short notice. I am open to get involve with data analysis project from any industry whether it smaller to large. 
+### 👯 I am looking to collaborate on any data analysis project and am available with short notice. 
 
 
-### :office: I can help a business to perform following analysis
+### :office: I can help a business to perform following analysis -
 <p align="center">
  
 |HR Analysis|Financial Analysis|Business Analysis|
