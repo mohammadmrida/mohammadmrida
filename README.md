@@ -24,7 +24,6 @@
 
 </br>
 
-### 🌱 I’m continiously learning new tools and techniques to do more complex analysis.
 ### 🔭 Expertise in DATA ANALYSIS TOOLS:
 
 <p></p>
